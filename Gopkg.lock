@@ -3,15 +3,13 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:7427036b6d926b3d1fa0773771820735b35554a98296f1074df440ee30a97296"
   name = "golang.org/x/net"
   packages = ["websocket"]
-  pruneopts = "UT"
   revision = "74de082e2cca95839e88aa0aeee5aadf6ce7710f"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  input-imports = ["golang.org/x/net/websocket"]
+  inputs-digest = "e3a5fa808a45f7d729055df7d9ccd68c0a05412e805bcd8a6d15d46598ab2993"
   solver-name = "gps-cdcl"
   solver-version = 1
