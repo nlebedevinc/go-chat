@@ -4,7 +4,7 @@ import (
     "log"
     "net/http"
 
-    "chat-demo/chat"
+    "github.com/nlebedevinc/go-chat/pkg/chat"
 )
 
 func main() {
