@@ -3,5 +3,6 @@
 ## TODO:
 * Create documentation
 * Create client apps
-* Improve functionality
+* Improve basic functionality
+* Create plugins
 * Create tests
